@@ -1,32 +1,22 @@
 # SMC
-Tools ini masih dalam tahap uji coba (BETA).
+Esta herramienta todavía está en la fase de prueba (BETA).
 
-SMC Adalah tools untuk Gathering Information dimana tools ini bisa mencari dan menemukan informasi dengan fitur yang ada. dan tentunya OPEN SOURCE.
+SMC es una herramienta para la recopilación de información donde estas herramientas pueden buscar y encontrar información con características existentes. y por supuesto FUENTE ABIERTA.
 
-## Fitur
-1. Gathering Phone Number
-2. IP Tracking
-3. Check Valid Email
-4. Detect CMS, dan
-5. Lookup Domain.
+## Menu
+Obtener información Número de teléfono
+Seguimiento de IP
+Comprobar correo electrónico válido
+Detectar CMS\033
+Lookup Dominio
+Información IP + Google Map
 
-## Notice
-Fitur-fitur akan bertambah pada saat saya gabut dan mengisi kekosongan.
+##Aviso
+Las características se sumarán cuando desbloquee y complete los espacios en blanco.
 
-## Preview
-## Gathering Phone Number
-![preview](https://raw.githubusercontent.com/0dayherman/SMC/master/preview.jpg)
-## IP Tracking
-![preview](https://raw.githubusercontent.com/0dayherman/SMC/master/preview%202.jpg)
-## Check Valid Email
-![preview](https://raw.githubusercontent.com/0dayherman/SMC/master/preview%203.jpg)
-## Detect CMS
-![preview](https://raw.githubusercontent.com/0dayherman/SMC/master/preview%205.jpg)
-## Lookup Domain
-![preview](https://raw.githubusercontent.com/0dayherman/SMC/master/preview%205.jpg)
 
-## Quotes
-"Hidup cuman sekali. 2x namanya hidup hidup". h3h3
+## Autor
+https://github.com/0dayherman/SMC
 
 ## CONTRIBUTOR
 1. Abay
