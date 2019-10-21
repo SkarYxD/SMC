@@ -11,9 +11,8 @@ Detectar CMS\033
 Lookup Dominio
 Información IP + Google Map
 
-##Aviso
-Las características se sumarán cuando desbloquee y complete los espacios en blanco.
-
+## Traducción
+SkarYxD
 
 ## Autor
 
