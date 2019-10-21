@@ -16,8 +16,5 @@ Las características se sumarán cuando desbloquee y complete los espacios en bl
 
 
 ## Autor
-https://github.com/0dayherman/SMC
 
-## CONTRIBUTOR
-1. Abay
-2. Ulin
+https://github.com/0dayherman/SMC
